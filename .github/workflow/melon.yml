@@ -14,4 +14,4 @@ jobs:
           schedule-id: 100020
           seat-id: 6_91
           slack-incoming-webhook-url: ${{ secrets.MELON_API_TOKEN }}
-          message: 'ÂòÆ±À²£¬¸Ï½ôÇÀÆ±£¡'
+          message: 'å¿«æŠ¢ç¥¨Â¡'
