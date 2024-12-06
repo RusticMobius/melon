@@ -9,8 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - name: Check MELON_API_TOKEN secret
-        run: echo "MELON_API_TOKEN=${{ secrets.MELON_API_TOKEN }}"
       - name: Check Tickets
         uses: mooyoul/melon-ticket-actions@v1.1.0
         with:
