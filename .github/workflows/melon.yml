@@ -13,7 +13,7 @@ jobs:
         uses: mooyoul/melon-ticket-actions@v1.1.0
         with:
           product-id: 210513
-          schedule-id: 100020
-          seat-id: 6_91
+          schedule-id: 100034
+          seat-id: 7_159
           slack-incoming-webhook-url: ${{ secrets.MELON_API_TOKEN }}
           message: '달려달려~'
