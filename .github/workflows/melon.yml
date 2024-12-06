@@ -15,5 +15,5 @@ jobs:
           product-id: 210513
           schedule-id: 100034
           seat-id: 7_159
-          slack-incoming-webhook-url: ${{ secrets.MELON_API_TOKEN }}
+          slack-incoming-webhook-url: ${{ secrets.MELON }}
           message: '달려달려~'
