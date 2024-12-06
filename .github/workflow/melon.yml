@@ -1,4 +1,4 @@
-name: example
+Ôªøname: example
 on:
   schedule:
     - cron: '*/5 * * * *' # Every 5 minutes
@@ -14,4 +14,4 @@ jobs:
           schedule-id: 100020
           seat-id: 6_91
           slack-incoming-webhook-url: ${{ secrets.MELON_API_TOKEN }}
-          message: '¬Ú∆±¿≤£¨∏œΩÙ«¿∆±£°'
+          message: '‰π∞Á•®Âï¶ÔºåËµ∂Á¥ßÊä¢Á•®ÔºÅ'
