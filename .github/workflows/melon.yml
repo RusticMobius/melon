@@ -16,4 +16,4 @@ jobs:
           schedule-id: 100020
           seat-id: 6_91
           slack-incoming-webhook-url: ${{ secrets.MELON_API_TOKEN }}
-          message: '快抢票¡'
+          message: '달려달려~'
